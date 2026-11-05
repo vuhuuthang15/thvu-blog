@@ -14,7 +14,7 @@ export default function Home() {
               </a>
               <a
                 className="link"
-                href="https://github.com/ThangHuuVu"
+                href="https://github.com/vuhuuthang15"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -22,7 +22,7 @@ export default function Home() {
               </a>
               <a
                 className="link"
-                href="https://www.linkedin.com/in/thanghuuvu"
+                href="https://www.linkedin.com/in/vuhuuthang15"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -30,7 +30,7 @@ export default function Home() {
               </a>
               <a
                 className="link"
-                href="https://x.com/thanghvu"
+                href="https://x.com/vuhuuthang15"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -40,7 +40,9 @@ export default function Home() {
           </section>
         </div>
 
-        <span className="footer">© {new Date().getFullYear()} thang vu</span>
+        <span className="footer">
+          © {new Date().getFullYear()} huu thang vu
+        </span>
       </main>
     </div>
   );
